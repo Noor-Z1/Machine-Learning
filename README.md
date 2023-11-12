@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine learning algorithms, written in python from scratch
+Machine learning algorithms implemented in python from scratch. 
