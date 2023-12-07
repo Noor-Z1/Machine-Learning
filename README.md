@@ -1,2 +1,2 @@
-# Machine-Learning
-Machine learning algorithms implemented in python from scratch. 
+# Machine Learning
+This repo contains some basic machine learning algorithms implemented in python from scratch.
